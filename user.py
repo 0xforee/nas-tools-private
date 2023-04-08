@@ -550,21 +550,6 @@ class User(UserMixin):
         '''
       },
       {
-        'name': "豆瓣",
-        'page': "douban",
-        'icon': '''
-          <!-- https://tabler-icons.io/static/tabler-icons/icons-png/brand-douban.png -->
-          <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-brand-douban" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
-            <path stroke="none" d="M0 0h24v24H0z" fill="none"></path>
-            <path d="M4 20h16"></path>
-            <path d="M5 4h14"></path>
-            <path d="M8 8h8a2 2 0 0 1 2 2v2a2 2 0 0 1 -2 2h-8a2 2 0 0 1 -2 -2v-2a2 2 0 0 1 2 -2z"></path>
-            <path d="M16 14l-2 6"></path>
-            <path d="M8 17l1 3"></path>
-          </svg>
-        '''
-      },
-      {
         'name': "插件",
         'page': "plugin",
         'icon': '''
